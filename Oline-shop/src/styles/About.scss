@@ -1,0 +1,65 @@
+.About{
+    display: flex;
+    
+}
+.About-img{
+    width: 600px;
+    margin-top: 70px;
+    margin-left: 100px;
+    
+}
+.About-text{
+    // align-items: center;
+    display: flex;
+    flex-direction: column;
+   gap: 30px;
+    justify-content: center;
+    margin-left: 30px;
+    margin-top: 10px;}
+.About-card{
+    border: 2px solid rgb(154, 150, 150);
+    width: 200px;
+    height: 150px;
+    margin-left: 80px;
+    border-radius: 2px;
+    margin-top: 50px;
+   
+}
+.About-card-1{
+    display: flex;
+text-align: center;
+gap: 20px;
+
+    
+}
+.About-card:hover{
+ background-color: rgb(235, 126, 168);
+ color: white;
+}
+.About-icons{
+    width: 60px;
+    margin-top: 10px;
+}
+.About-tom{
+    width: 200px;
+}
+.About-person{
+    // border: 2px solid  rgb(102, 95, 95);
+    width: 250px;
+    background-color: rgb(245, 245, 245);
+   
+}
+.About-1{
+    border: 2px solid red;
+    width: 260px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.about{
+    display: flex;
+    // border: 2px solid black;
+    width: 1300px;
+  justify-content: center;
+  gap: 50px;
+}

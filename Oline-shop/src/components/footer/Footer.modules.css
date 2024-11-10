@@ -1,0 +1,16 @@
+.footer-1{
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    /* border: 2px solid red; */
+    width: 1260px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.footer-icons{
+    display: flex;
+    /* border: 2px solid white; */
+    width: 60px;
+    justify-content: space-between;
+}

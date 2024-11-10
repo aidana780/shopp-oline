@@ -1,0 +1,25 @@
+.NotFount{
+    
+    align-items: center;
+    h1{
+        color: black;
+        margin-left: 0;
+        font-size: 100px;   
+    }
+    h3{
+        margin-bottom: 80px;
+    }
+}
+.btn{
+    background-color: red;
+    color: white;
+    margin-left: 110px;
+}
+.not{
+    margin-left: 400px;
+    margin-bottom: 50px;
+}
+.nott{
+    margin-left: 30px;
+    margin-top: 20px;
+}
